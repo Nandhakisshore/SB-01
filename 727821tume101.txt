@@ -23,9 +23,9 @@ Test scenario:
 As a admin, I have to validate delete mail.
 
 Acceptance criteria or Testcases
-1.Goto gmail.com
-2.After logged in choose the mail which is needed to be deleted
-3.Click the delete option.
+1.After logged in,click search in mails (eg:Google).
+2.Then select an mail.
+3.click delete button.
 
 Gmail search mail:
 Test scenario:
@@ -34,14 +34,13 @@ As a admin, I have to validate search a mail.
 
 Acceptance criteria or Testcases
 1.Goto gmail.com
-2.After logged in search for admin2.
+2.After logged in search for email.
 
 Gmail draft mail:
 Test scenario:
 As a admin, I have to validate draft a mail.
 
 Acceptance criteria or Testcases
-1.After logged in, Click compose mail button.
-2.enter valid mail id abc@gmail.com
-3.enter msg body
-4.click save as draft button.
+1.After logged in,click compose mail button.
+2.Enter a msg body 
+3.Save as draft.
